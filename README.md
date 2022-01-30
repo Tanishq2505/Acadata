@@ -1,6 +1,6 @@
 # Acadata
 
-An app that shows all you student academia data.
+An app that shows all your student academia data.
 (Ongoing Development)
 # Screenshots
 <p align="left">
