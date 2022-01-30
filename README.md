@@ -3,7 +3,7 @@
 An app that shows all you student academia data.
 (Ongoing Development)
 
-#<p align="left">
+# <p align="left">
 <img src="./screenshots/s1.jpeg" width="108" height="216">&nbsp;&nbsp;<img src="./screenshots/s2.jpeg" width="108" height="216">&nbsp;&nbsp;<img src="./screenshots/s3.jpeg" width="108" height="216">
 </p>
 
