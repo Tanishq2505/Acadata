@@ -2,11 +2,11 @@
 
 An app that shows all you student academia data.
 (Ongoing Development)
-
+<html>
 <p align="left">
 <img src="./screenshots/s1.jpeg" width="108" height="216">&nbsp;&nbsp;<img src="./screenshots/s2.jpeg" width="108" height="216">&nbsp;&nbsp;<img src="./screenshots/s3.jpeg" width="108" height="216">
 </p>
-<hr>
+</html>
 # Release Notes
 An app to show all your Academia data into a single place with beautiful UI and easy-to-read data.
 
