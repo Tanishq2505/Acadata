@@ -17,8 +17,7 @@ Features:
 - Stores data locally and sends none to the internet ensuring security.
 
 Update notes:
+- Huge performance upgrades
 - UI updates:
-  - Added background for each card of attendance.
-  - Color differentiation between theory and practical subjects.
-  - Removed blue color of title bar.
+  - New profile menu with more animations
 - Bug fixes.
