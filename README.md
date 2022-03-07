@@ -4,7 +4,7 @@ An app that shows all your student academia data.
 (Ongoing Development)
 # Screenshots
 <p align="left">
-<img src="./screenshots/s1.jpg" width="150" height="100%">&nbsp;&nbsp;<img src="./screenshots/s2.jpg" width="150" height="100%">&nbsp;&nbsp;<img src="./screenshots/marks.jpg" width="150" height="100%">&nbsp;&nbsp;<img src="./screenshots/marks 2.jpg" width="150" height="100%">&nbsp;&nbsp;<img src="./screenshots/s3.jpg" width="150" height="100%">
+<img src="./screenshots/s1.jpg" width="150" height="100%">&nbsp;&nbsp;<img src="./screenshots/s2.jpg" width="150" height="100%">&nbsp;&nbsp;<img src="./screenshots/time table.jpg" width="150" height="100%">&nbsp;&nbsp;<img src="./screenshots/timetable 2.jpg" width="150" height="100%">&nbsp;&nbsp;<img src="./screenshots/marks.jpg" width="150" height="100%">&nbsp;&nbsp;<img src="./screenshots/marks 2.jpg" width="150" height="100%">&nbsp;&nbsp;<img src="./screenshots/s3.jpg" width="150" height="100%">
 </p>
 
 # Release Notes
