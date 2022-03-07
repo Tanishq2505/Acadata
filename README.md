@@ -11,13 +11,10 @@ An app that shows all your student academia data.
 An app to show all your Academia data into a single place with beautiful UI and easy-to-read data.
 
 Features:
-- Shows all your attendance data.
+- Shows all your attendance and marks data.
 - Shows how many margins you have in classes.
 - Beautiful UI which is easy to read and understand
 - Stores data locally and sends none to the internet ensuring security.
 
 Update notes:
-- Huge performance upgrades
-- UI updates:
-  - New profile menu with more animations
-- Bug fixes.
+- Added marks section.
