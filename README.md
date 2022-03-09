@@ -17,4 +17,5 @@ Features:
 - Stores data locally and sends none to the internet ensuring security.
 
 Update notes:
+- Changed app bar title in time-table screen.
 - Bug Fixed in marks screen when no marks are available.
