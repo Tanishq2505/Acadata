@@ -17,5 +17,4 @@ Features:
 - Stores data locally and sends none to the internet ensuring security.
 
 Update notes:
-- Added time table section.
-- Bug Fixes.
+- Bug Fixed in marks screen when no marks are available.
