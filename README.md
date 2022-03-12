@@ -17,6 +17,6 @@ Features:
 - Stores data locally and sends none to the internet ensuring security.
 
 Update notes:
-- Changed app bar title in time-table screen to show selected day order.
-- Added next day order label.
-- Bug Fixed in marks screen when no marks are available.
+- Changed timetable bottom navigation bar ui.
+- Added visualisation to current and next day order
+- Bugs Fixed.
