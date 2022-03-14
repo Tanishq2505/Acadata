@@ -12,11 +12,12 @@ An app to show all your Academia data into a single place with beautiful UI and 
 
 Features:
 - Shows all your attendance, timetable and marks data.
+- Timetable can be edited as per the user's request. Unrequired subjects can now be deleted just in a simple swipe.
 - Shows how many margins you have in classes.
 - Beautiful UI which is easy to read and understand
 - Stores data locally and sends none to the internet ensuring security.
 
 Update notes:
-- Changed timetable bottom navigation bar ui.
-- Added visualisation to current and next day order
-- Bugs Fixed.
+- Added swipe to delete feature in timetable section.
+- Added loading view to reset timetable button.
+- Bugs Fixed in attendance screen.
