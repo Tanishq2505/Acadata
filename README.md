@@ -20,7 +20,7 @@ Features:
 Update notes:
 - Added tools tab for upcoming tools.
 - Bug Fixes:
-- - Margin and attendance percentage color.
-- - Resetting of the status bar and the navigation bar on restart.
-- - Empty screen when no marks are present.
-- - Black screen after timetable resets.
+  - Margin and attendance percentage color.
+  - Resetting of the status bar and the navigation bar on restart.
+  - Empty screen when no marks are present.
+  - Black screen after timetable resets.
